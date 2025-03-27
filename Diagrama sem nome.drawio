@@ -30,7 +30,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KobI0hK2MoKHHXyw9mx-" name="Página-3">
-    <mxGraphModel dx="471" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="754" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1076,44 +1076,41 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KtoRqeV41mvXH9UUAd-6" name="Página-13">
-    <mxGraphModel dx="1313" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2297" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VPMK84zCW-tdkFlIVv3C-1" value="Sistema de Academia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPMK84zCW-tdkFlIVv3C-1" value="Sistema de Academia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="10" width="214" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-2" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry y="160" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-3" value="Fazer matricula" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-3" value="Fazer matricula" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-4" value="Marcar horários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-4" value="Marcar horários" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-5" value="Marcar aula" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-5" value="Marcar aula" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="220" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-6" value="Criar aula" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-6" value="Criar aula" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="360" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-7" value="marcar frequéncia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-7" value="marcar frequéncia" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-8" value="Treinador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-8" value="Treinador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="400" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-10" value="Monitorar pagamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-10" value="Monitorar pagamento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="510" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-11" value="indicar promoçoes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-11" value="indicar promoçoes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="105" y="570" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-12" value="Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-12" value="Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="600" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="50" y="200" as="sourcePoint" />
             <mxPoint x="150" y="120" as="targetPoint" />
@@ -1122,59 +1119,68 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="50" y="199.38" as="sourcePoint" />
             <mxPoint x="160" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1" source="8nGSer3407NRarpCSpaF-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="50" y="199.38" as="sourcePoint" />
             <mxPoint x="160" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="440" as="sourcePoint" />
             <mxPoint x="240" y="384.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="440" as="sourcePoint" />
             <mxPoint x="240" y="444.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="640" as="sourcePoint" />
             <mxPoint x="240" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="640" as="sourcePoint" />
             <mxPoint x="240" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-20" value="Aluno" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-20" value="Aluno" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="40" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-21" value="+id:int&lt;div&gt;+nome:string&lt;/div&gt;&lt;div&gt;+fazerMatricula(type)&lt;/div&gt;&lt;div&gt;+agendar_aulas()&lt;/div&gt;&lt;div&gt;+MarcarHorarios()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8nGSer3407NRarpCSpaF-20">
+        <mxCell id="8nGSer3407NRarpCSpaF-21" value="+id:int&lt;div&gt;+nome:string&lt;/div&gt;&lt;div&gt;+fazerMatricula(type)&lt;/div&gt;&lt;div&gt;+agendar_aulas()&lt;/div&gt;&lt;div&gt;+MarcarHorarios()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8nGSer3407NRarpCSpaF-20" vertex="1">
           <mxGeometry y="26" width="190" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-24" value="Matricula" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-24" value="Matricula" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-25" value="+Inicio_das_aulas&lt;div&gt;+data&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8nGSer3407NRarpCSpaF-24">
+        <mxCell id="8nGSer3407NRarpCSpaF-25" value="+Inicio_das_aulas&lt;div&gt;+data&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8nGSer3407NRarpCSpaF-24" vertex="1">
           <mxGeometry y="26" width="140" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-28" value="Treinador" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nGSer3407NRarpCSpaF-28" value="Treinador" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="310" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8nGSer3407NRarpCSpaF-29" value="+criar_aula&lt;div&gt;+marcar_frequencia&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8nGSer3407NRarpCSpaF-28">
+        <mxCell id="8nGSer3407NRarpCSpaF-29" value="+criar_aula&lt;div&gt;+marcar_frequencia&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8nGSer3407NRarpCSpaF-28" vertex="1">
           <mxGeometry y="26" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvxd3G8AkY93TlDRjN5e-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="8nGSer3407NRarpCSpaF-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="199.38" as="sourcePoint" />
+            <mxPoint x="160" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nGSer3407NRarpCSpaF-2" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="120" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
