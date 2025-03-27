@@ -1069,6 +1069,9 @@
             <mxPoint x="640" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XVfe2uSW7ngnuB1kP6_P-51" value="Sistema de farmácia&lt;div&gt;classe&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="290" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
