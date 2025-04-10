@@ -877,7 +877,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vB95B38paHgXIcEsB9a2" name="Página-11">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -976,11 +976,14 @@
         <mxCell id="Hqg99GEgNX2Mf0J1oT6w-42" value="confirmar pagamento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="94HTkC7a3q6AqYE3oI3_-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="94HTkC7a3q6AqYE3oI3_-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="220" as="sourcePoint" />
             <mxPoint x="190" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4F8hEzf8ws7gSRWnp7MC-1" value="Sistema de farmacia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
